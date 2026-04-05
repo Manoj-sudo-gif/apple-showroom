@@ -70,9 +70,9 @@ export function BookingSection() {
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">Current Device</label>
                 <select className="w-full bg-white border border-gray-200 rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-black">
-                  <option>iPhone 14 Pro Max</option>
-                  <option>iPhone 13 Pro</option>
-                  <option>iPhone 12</option>
+                  <option>iPhone 16 Pro Max</option>
+                  <option>iPhone 16 Pro</option>
+                  <option>iPhone 15 Pro</option>
                   <option>Other Smartphone</option>
                 </select>
               </div>
@@ -103,7 +103,7 @@ export function BookingSection() {
                 >
                   <p className="text-sm text-gray-500 mb-2">Estimated Trade-in Value</p>
                   <p className="text-4xl font-bold text-black">₹{tradeInValue.toLocaleString()}</p>
-                  <p className="text-sm text-gray-500 mt-2">Apply this towards your new iPhone 16 Pro.</p>
+                  <p className="text-sm text-gray-500 mt-2">Apply this towards your new iPhone 17 Pro or 17 Air.</p>
                 </motion.div>
               )}
             </AnimatePresence>

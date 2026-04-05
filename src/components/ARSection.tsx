@@ -16,7 +16,7 @@ export function ARSection() {
               See it in your space.
             </h2>
             <p className="text-xl text-gray-400 mb-10 max-w-lg">
-              Use Augmented Reality to see how the new iPhone 16 Pro or MacBook Pro looks on your desk. Scan the code to start the experience.
+              Use Augmented Reality to see how the new iPhone 17 Pro or iPhone 17 Air looks on your desk. Scan the code to start the experience.
             </p>
             
             <div className="flex items-center gap-6 p-6 bg-[#1d1d1f] rounded-3xl inline-flex">

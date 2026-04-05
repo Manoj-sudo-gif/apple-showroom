@@ -1,5 +1,7 @@
 import { Navbar } from "./components/Navbar";
 import { Hero } from "./components/Hero";
+import { CameraFeature } from "./components/CameraFeature";
+import { VideoShowcase } from "./components/VideoShowcase";
 import { ProductPods } from "./components/ProductPods";
 import { ARSection } from "./components/ARSection";
 import { BookingSection } from "./components/BookingSection";
@@ -11,6 +13,8 @@ export default function App() {
       <Navbar />
       <main>
         <Hero />
+        <VideoShowcase />
+        <CameraFeature />
         <ProductPods />
         <ARSection />
         <BookingSection />
